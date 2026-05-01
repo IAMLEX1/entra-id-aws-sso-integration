@@ -29,8 +29,8 @@ The goal is to enable secure, centralized identity management where users authen
 - Navigated to Microsoft Entra ID
 - Selected **Enterprise Applications**
 - Added **AWS Single-Account Access**
-
-![AWS App Added](./aws-app.png)
+![AWS App Gallery](./aws-app.png)
+![AWS App Details](./aws-app-details.png)
 
 ---
 
