@@ -30,7 +30,7 @@ The goal is to enable secure, centralized identity management where users authen
 - Selected **Enterprise Applications**
 - Added **AWS Single-Account Access**
 ![AWS App Gallery](./aws-app.png)
-![AWS App Details](./aws-app-details.png)
+
 
 ---
 
