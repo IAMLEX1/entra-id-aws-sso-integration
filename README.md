@@ -1,0 +1,1 @@
+# entra-id-aws-sso-integration
